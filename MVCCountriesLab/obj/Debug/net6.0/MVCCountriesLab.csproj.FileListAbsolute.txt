@@ -1,0 +1,15 @@
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\bin\Debug\net6.0\MVCCountriesLab.exe
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\bin\Debug\net6.0\MVCCountriesLab.deps.json
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\bin\Debug\net6.0\MVCCountriesLab.runtimeconfig.json
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\bin\Debug\net6.0\MVCCountriesLab.dll
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\bin\Debug\net6.0\MVCCountriesLab.pdb
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net6.0\MVCCountriesLab.csproj.AssemblyReference.cache
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net6.0\MVCCountriesLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net6.0\MVCCountriesLab.AssemblyInfoInputs.cache
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net6.0\MVCCountriesLab.AssemblyInfo.cs
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net6.0\MVCCountriesLab.csproj.CoreCompileInputs.cache
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net6.0\MVCCountriesLab.dll
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net6.0\refint\MVCCountriesLab.dll
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net6.0\MVCCountriesLab.pdb
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net6.0\MVCCountriesLab.genruntimeconfig.cache
+C:\Users\jgarr\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net6.0\ref\MVCCountriesLab.dll
